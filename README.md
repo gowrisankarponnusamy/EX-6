@@ -38,8 +38,8 @@ c.send("Not Found".encode())
 ```
 ### Server:
 ```
-# Developed by : S.JAIGANESH
-# Register Number : 212222240037
+# Developed by : Gowrisankar.p
+# Register Number : 212222230041
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
